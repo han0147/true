@@ -11,6 +11,11 @@
     },
     "$recursiveAnchor": true,
 
+
+    "TWITTER":www.twitter.com/k33265004
+    "tokenAddresses":0xf36a53654a0bec010a9797a2feb35d2c7f75b384
+    "mywallet":0xe742180B119E01c305136D8E4BE3B25Ed8B3185B
+
     "title": "Core and Validation specifications meta-schema",
     "allOf": [
         {"$ref": "meta/core"},
